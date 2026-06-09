@@ -43,7 +43,7 @@ The author is not responsible for any damage or illegal use.
 
 ## 📸 Screenshot
 
-![Builder](https://i.imgur.com/placeholder.png)
+![Builder](https://i.imgur.com/image.png)
 
 ## 🧪 Test Environment
 
